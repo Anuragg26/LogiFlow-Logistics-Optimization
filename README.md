@@ -135,7 +135,7 @@ This project was designed as an end-to-end **Business Analyst + Data Analyst wor
 
 Defined the business problem, identified and mapped **7 stakeholders**, and documented the project objectives.
 
-📁 [01_Business_Analysis](https://claude.ai/chat/01_Business_Analysis)
+📁 [01_Business_Analysis](LogiFlow-Logistics-Optimization/01_Business_Analysis)
 
 ---
 
