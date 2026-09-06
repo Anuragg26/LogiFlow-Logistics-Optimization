@@ -19,10 +19,10 @@ This project simulates a complete **Business Analyst / Data Analyst engagement**
 
 ---
 
-## 📊 Dashboard
+## 📊 Power BI Dashboard
 
-**Interactive Power BI dashboard:**
-[View Dashboard](LogiFlow-Logistics-Optimization/07_PowerBI/LogiFlow_Dashboard_Screenshot.png)
+![LogiFlow Power BI Dashboard](LogiFlow-Logistics-Optimization/07_PowerBI/LogiFlow_Dashboard_Screenshot.png)
+
 
 The dashboard provides management with a single view of:
 
