@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Copy of Page-1" id="rQbEGTBJiL8nu1nl4BBL">
+    <mxGraphModel dx="709" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="DMR3zcRbojQHdF1voBtd-0" />
+        <mxCell id="DMR3zcRbojQHdF1voBtd-1" parent="DMR3zcRbojQHdF1voBtd-0" />
+        <mxCell id="DMR3zcRbojQHdF1voBtd-2" edge="1" parent="DMR3zcRbojQHdF1voBtd-1" source="DMR3zcRbojQHdF1voBtd-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="DMR3zcRbojQHdF1voBtd-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMR3zcRbojQHdF1voBtd-3" parent="DMR3zcRbojQHdF1voBtd-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Customer Order" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DMR3zcRbojQHdF1voBtd-4" edge="1" parent="DMR3zcRbojQHdF1voBtd-1" source="DMR3zcRbojQHdF1voBtd-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="DMR3zcRbojQHdF1voBtd-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMR3zcRbojQHdF1voBtd-5" parent="DMR3zcRbojQHdF1voBtd-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="&#xa;Order Processing&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DMR3zcRbojQHdF1voBtd-6" edge="1" parent="DMR3zcRbojQHdF1voBtd-1" source="DMR3zcRbojQHdF1voBtd-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="DMR3zcRbojQHdF1voBtd-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMR3zcRbojQHdF1voBtd-7" parent="DMR3zcRbojQHdF1voBtd-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Driver" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="DMR3zcRbojQHdF1voBtd-8" edge="1" parent="DMR3zcRbojQHdF1voBtd-1" source="DMR3zcRbojQHdF1voBtd-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="DMR3zcRbojQHdF1voBtd-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMR3zcRbojQHdF1voBtd-9" parent="DMR3zcRbojQHdF1voBtd-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="Warehouse" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="DMR3zcRbojQHdF1voBtd-10" edge="1" parent="DMR3zcRbojQHdF1voBtd-1" source="DMR3zcRbojQHdF1voBtd-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="DMR3zcRbojQHdF1voBtd-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMR3zcRbojQHdF1voBtd-11" parent="DMR3zcRbojQHdF1voBtd-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Vehicle Assignment" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="DMR3zcRbojQHdF1voBtd-12" edge="1" parent="DMR3zcRbojQHdF1voBtd-1" source="DMR3zcRbojQHdF1voBtd-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="DMR3zcRbojQHdF1voBtd-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMR3zcRbojQHdF1voBtd-13" parent="DMR3zcRbojQHdF1voBtd-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="Route Planning" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="DMR3zcRbojQHdF1voBtd-14" edge="1" parent="DMR3zcRbojQHdF1voBtd-1" source="DMR3zcRbojQHdF1voBtd-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="DMR3zcRbojQHdF1voBtd-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DMR3zcRbojQHdF1voBtd-15" parent="DMR3zcRbojQHdF1voBtd-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Delivery" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DMR3zcRbojQHdF1voBtd-16" parent="DMR3zcRbojQHdF1voBtd-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Customer" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DMR3zcRbojQHdF1voBtd-17" parent="DMR3zcRbojQHdF1voBtd-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="Dashboard shows exact item location" vertex="1">
+          <mxGeometry height="20" width="160" x="150" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DMR3zcRbojQHdF1voBtd-18" parent="DMR3zcRbojQHdF1voBtd-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="Trucks pre-assigned by delivery zone" vertex="1">
+          <mxGeometry height="30" width="170" x="150" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="DMR3zcRbojQHdF1voBtd-19" parent="DMR3zcRbojQHdF1voBtd-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value=" Navigation shows fastest route option" vertex="1">
+          <mxGeometry height="30" width="130" x="580" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="DMR3zcRbojQHdF1voBtd-20" parent="DMR3zcRbojQHdF1voBtd-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="To-Be" vertex="1">
+          <mxGeometry height="30" width="150" x="180" y="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
