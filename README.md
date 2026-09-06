@@ -143,7 +143,7 @@ Defined the business problem, identified and mapped **7 stakeholders**, and docu
 
 Created a structured requirements document covering the business needs and expected analytical outcomes.
 
-📁 [02_Requirements](https://claude.ai/chat/02_Requirements)
+📁 [02_Requirements](LogiFlow-Logistics-Optimization/02_Requirements)
 
 ---
 
@@ -153,7 +153,7 @@ Mapped the existing **As-Is delivery process** and designed a proposed **To-Be p
 
 Created using **Draw.io**.
 
-📁 [03_Process_Analysis](https://claude.ai/chat/03_Process_Analysis)
+📁 [03_Process_Analysis](LogiFlow-Logistics-Optimization/03_Process_Analysis)
 
 ---
 
@@ -166,7 +166,7 @@ Managed the project using a simulated **Scrum workflow in Jira**, including:
 * Backlog structure
 * Agile project organisation
 
-📁 [04_Agile_Jira](https://claude.ai/chat/04_Agile_Jira)
+📁 [04_Agile_Jira](LogiFlow-Logistics-Optimization/04_Agile_Jira)
 
 ---
 
@@ -176,7 +176,7 @@ Worked with a **105,000-row synthetic dataset** representing one full year of de
 
 The dataset intentionally included realistic data-quality issues such as missing values to simulate a real-world analytics environment.
 
-📁 [05_Data](https://claude.ai/chat/05_Data)
+📁 [05_Data](LogiFlow-Logistics-Optimization/05_Data)
 
 ---
 
@@ -194,7 +194,7 @@ Analysis covered:
 * Customer outcomes
 * Operational trends
 
-📁 [06_SQL](https://claude.ai/chat/06_SQL)
+📁 [06_SQL](LogiFlow-Logistics-Optimization/06_SQL)
 
 ---
 
@@ -202,7 +202,7 @@ Analysis covered:
 
 Built an interactive **Power BI dashboard** using custom **DAX measures** to make the findings accessible to business stakeholders.
 
-📁 [07_PowerBI](https://claude.ai/chat/07_PowerBI)
+📁 [07_PowerBI](LogiFlow-Logistics-Optimization/07_PowerBI)
 
 ---
 
@@ -210,7 +210,7 @@ Built an interactive **Power BI dashboard** using custom **DAX measures** to mak
 
 Consolidated the analytical findings into a structured set of business insights, separating warehouse-level issues from route-level outliers.
 
-📁 [08_Insights](https://claude.ai/chat/08_Insights)
+📁 [08_InsightsLogiFlow-Logistics-Optimization/08_Insights)
 
 ---
 
@@ -218,7 +218,7 @@ Consolidated the analytical findings into a structured set of business insights,
 
 Translated the findings into **prioritised, business-impact-driven recommendations** for management.
 
-📁 [09_Recommendations](https://claude.ai/chat/09_Recommendations)
+📁 [09_Recommendations](LogiFlow-Logistics-Optimization/09_Recommendations)
 
 ---
 
@@ -226,7 +226,7 @@ Translated the findings into **prioritised, business-impact-driven recommendatio
 
 Created a stakeholder-ready presentation summarising the problem, findings, business impact, and recommended actions.
 
-📁 [10_Presentation](https://claude.ai/chat/10_Presentation)
+📁 [10_Presentation](LogiFlow-Logistics-Optimization/10_Presentation)
 
 ---
 
